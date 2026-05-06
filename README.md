@@ -1,7 +1,5 @@
-# EmA
-Introducing EmA A unified rates &amp; credit pricer built for the post-LIBOR era — closed-form where it’s exact, Monte Carlo where it matters.
 
-# Peace Capital — Quant Pricer
+# Peace Capital — Quant Pricer "EmA"
 
 Production-grade pricer for monetary (SOFR/IRS/swaptions) and credit (CDS) derivatives.
 Aims for parity with industry oracles (QuantLib, ISDA, Bloomberg) before adding exotics.
